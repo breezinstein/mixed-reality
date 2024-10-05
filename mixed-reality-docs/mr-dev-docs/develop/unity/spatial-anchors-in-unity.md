@@ -73,8 +73,6 @@ Go back to the Unity development checkpoints:
 * [Tutorials](https://microsoft.github.io/MixedReality-WorldLockingTools-Samples/Tutorial/01_Minimal/01_Minimal.html)
 * [Samples](/mixed-reality/world-locking-tools/documentation/howtos/sampleapplications)
 * [Spatial anchor persistence](../../design/coordinate-systems.md#spatial-anchor-persistence)
-* <a href="/azure/spatial-anchors" target="_blank">Azure Spatial Anchors</a>
-* <a href="/dotnet/api/Microsoft.Azure.SpatialAnchors" target="_blank">Azure Spatial Anchors SDK for Unity</a>
 * [Experience scales](../../design/coordinate-systems.md#mixed-reality-experience-scales)
 * [Spatial stage](../../design/coordinate-systems.md#stage-frame-of-reference)
 * [Tracking loss in Unity](tracking-loss-in-unity.md)
