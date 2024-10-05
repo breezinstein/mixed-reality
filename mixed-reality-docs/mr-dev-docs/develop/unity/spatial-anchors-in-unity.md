@@ -45,9 +45,6 @@ World Locking Tools automatically handles internal creation and management of sp
 
 Spatial anchors save holograms in real-world space between application sessions. Once saved in the HoloLens anchor store, spatial anchors can be found and loaded in different sessions and are an ideal fallback when there's no internet connectivity.
 
-> [!IMPORTANT]
-> Local anchors are stored on device, while Azure Spatial Anchors are stored in the cloud. You can have local and Azure anchors in the same project without conflict. For more information about integrating Azure cloud services to store your anchors, see [Azure Spatial Anchors](../mixed-reality-cloud-services.md#azure-spatial-anchors).
-
 [!INCLUDE[](includes/world-locking/world-locking-persistence.md)]
 
 ## Next steps
