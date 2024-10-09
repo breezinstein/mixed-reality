@@ -9,7 +9,6 @@ The latest Unreal Engine 4.27+ releases include:
 * Use the [Graphics Tools Plugin for Unreal](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal) to improve visual fidelity of Mixed Reality applications while maintaining performance
 * HoloLensAR plugin is removed in Unreal 5.0
 * Support for [World Locking Tools (5.0+)](https://github.com/microsoft/WorldLockingTools-Unreal)
-* Support for Azure Object Anchors (4.27+)
 
 
 See the Unreal Engine 5.0 <a href="https://docs.unrealengine.com/5.0/en-US/unreal-engine-5.0-release-notes/" target="_blank" title="Unreal Engine 5.0 release notes">release notes</a> for more. 
