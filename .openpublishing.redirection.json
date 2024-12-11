@@ -2467,7 +2467,7 @@
 		},
 		{
 			"source_path": "mixed-reality-docs/enthusiast-guide/CONTRIBUTING.md",
-			"redirect_url": "/contribute",
+			"redirect_url": "/contribute/",
 			"redirect_document_id": false
 		}
 	]
