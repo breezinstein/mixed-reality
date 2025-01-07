@@ -24,7 +24,7 @@ If you have HoloLens 2 device, you can directly download and install the app in 
 
 ## Demo video 
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IhWQ]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=a1108e74-e7f9-46fd-aa05-5b82b0a2fabf]
 
 Recorded with HoloLens 2 using Mixed Reality Capture
 

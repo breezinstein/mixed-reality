@@ -17,7 +17,7 @@ keywords: Windows Mixed Reality, design, sample app, controls, MRTK, Mixed Reali
 [Periodic Table of the Elements](https://github.com/Microsoft/MRDesignLabs_Unity_PeriodicTable) is an open-source sample app from Microsoft's Mixed Reality Design Labs. The app was originally designed for HoloLens 1st generation and immersive headset back in 2015 to demonstrate how to create an end-to-end experience using MRTK's building blocks. To fully leverage new articulated hand tracking and eye tracking input on HoloLens 2, the app has been updated using MRTK v2. 
 
 ## Demo video 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IkCF]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=c71033c1-00eb-4c03-9e5e-390821cb5278]
 
 Recorded with HoloLens 2 using Mixed Reality Capture
 

@@ -10,7 +10,7 @@ keywords: Figma, Sketch, Adobe XD, design, designer, design file, UX design, Hol
 
 # MRTK Figma Bridge for Unity (Beta)
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWKiO4]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=f9f312ef-99ac-4291-9430-3f073b602d77]
 
 MRTK Figma Bridge for Unity allows you to bring the layout from Figma Toolkit into Unity. The bridge can import UI layout created with MRTK Figma Toolkit, then instantiates corresponding MRTK prefabs with proper position and size. Figma Bridge will help design integration process and collaboration between designers and developers.
 
