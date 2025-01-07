@@ -21,6 +21,9 @@ World Locking Tools locks the entire holograph space of your application to the 
 
 World Locking Tools scale naturally with both the size and complexity of the scene. Large models, large collections of models, and multi-room environments are all handled gracefully.
 
+> [!NOTE]
+> **World Locking Tools** continues to be available. However, support for **World Locking Tools** will be discontinued November 12th 2024 (no bug fixes, content updates or technical support), and we can therefore make no guarantees that applications will continue to work for any extended period of time.
+
 ## Getting started
 
 Dive into the full documentation, beginning with the organization of the documentation itself, from the [Guides section](~/Documentation/GettingStartedWithWorldLocking.md).
