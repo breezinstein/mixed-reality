@@ -6,14 +6,14 @@ By default, World Locking Tools restore Unity's coordinate system relative to th
 
 If the application needs finer control, you can disable **Auto-Save** and **Auto-Load** in the inspector, and manage persistence from a script. For more information, see [Persist spatial coordinate systems](/mixed-reality/world-locking-tools/documentation/concepts/advanced/persistence).
 
-World Locking Tools supports local anchor persistence only on HoloLens devices. For Android, iOS, and HoloLens devices, integrate with Azure Spatial Anchors to support persistence and sharing of coordinate spaces across sessions and devices. For more information and samples using World Locking Tools with Azure Spatial Anchors, see [World Locking Tools (WLT) combined with Azure Spatial Anchors (ASA)](/mixed-reality/world-locking-tools/documentation/howtos/wlt_asa).
+World Locking Tools supports local anchor persistence only on HoloLens devices.
 
 # [ARAnchorManager](#tab/anchorstore)
 
 An API called the `XRAnchorStore` enables anchors to be persisted between sessions. The `XRAnchorStore` is a representation of the saved anchors on a device. You can persist anchors from `ARAnchors` in the Unity scene, load anchors from storage into new `ARAnchors`, or delete anchors from storage.
 
 > [!NOTE]
-> You save and load these anchors on the same device. Cross-device anchors are supported through [Azure Spatial Anchors](../../shared-experiences-in-unity.md#azure-spatial-anchors).
+> You save and load these anchors on the same device.
 
 ### Namespaces
 
@@ -187,7 +187,4 @@ for (int index = 0; index < ids.Length; index++)
 }
 ```
 
-## Persist holograms for multiple devices
-
-You can use [Azure Spatial Anchors](/azure/spatial-anchors/overview) to create a durable cloud anchor from a local world anchor. Your app can locate the cloud anchor across multiple HoloLens, iOS, and Android devices, even if the devices aren't together at the same time. Because cloud anchors are persistent, multiple devices can see content rendered relative to that anchor in the same physical location over time.
 
