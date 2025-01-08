@@ -18,10 +18,9 @@ Unlock what every human is an expert at—the three-dimensional, physical world 
 
 ## Mixed Reality services
 
-Mixed Reality cloud services like **Azure Remote Rendering** and **Azure Spatial Anchors** help developers build compelling immersive experiences on a variety of platforms. These services allow you to integrate spatial awareness into your projects when you're making applications for 3D training, predictive equipment maintenance, and design review, all in the context of your users’ environments.
+Mixed Reality cloud services like **Azure Remote Rendering** help developers build compelling immersive experiences on a variety of platforms. These services allow you to integrate spatial awareness into your projects when you're making applications for 3D training, predictive equipment maintenance, and design review, all in the context of your users’ environments.
 
 >[!Note]
->- Azure Spatial Anchors (ASA) will be retired on November 20, 2024. [Learn more](https://azure.microsoft.com/updates/azure-spatial-anchors-retirement/).
 >- Azure Remote Rendering (ARR) will be retired on September 30, 2025. [Learn more](https://azure.microsoft.com/updates/v2/azure-remote-rendering-retirement/).
 
 ### Azure Remote Rendering
@@ -43,27 +42,6 @@ ARR solves this problem by moving the rendering workload to high-end GPUs in the
 As an added bonus, ARR doesn't restrict what kind of user interface you can use in your app. At the end of a frame, your locally rendered content is automatically combined with the remote image as seen in the image below:
 
 ![Example of Azure Remote Rendering in Unity showcase app](images/showcase-app.png)
-
-### Azure Spatial Anchors
-
-[Azure Spatial Anchors](/azure/spatial-anchors/), or ASA, is a cross-platform service that allows you to build spatially aware mixed reality applications. With Azure Spatial Anchors, you can map, persist, and share holographic content across multiple devices at real-world scale. AOA is now in public preview for you to try out in your apps.
-
-Azure Spatial Anchors is a uniquely tailored solution for common use cases in Mixed Reality, including:
-* **Way-finding**: Where two or more spatial anchors could be connected to create a task list or points of interest a user must interact with.
-* **Multi-user experiences**: Where users could pass moves back and forth by interacting with objects in the same virtual space.
-* **Persisting virtual content in the real-world**: Where users could place virtual objects in the real-world that are viewable from other supported devices.
-
-![Example of Azure Spatial Anchors](images/persistence.gif)
-
-The service can be developed in a host of environments and deployed to a large group of devices and platforms. This gives them special dispensation for their own list of available platforms:
-* Unity for HoloLens
-* Unity for iOS
-* Unity for Android
-* Native iOS
-* Native Android
-* C++/WinRT and DirectX for HoloLens
-* Xamarin for iOS
-* Xamarin for Android
 
 ## Cognitive Services
 
