@@ -20,7 +20,7 @@ keywords: Windows Mixed Reality, Sample apps, Design, MRTK, Mixed Reality Toolki
 [Lunar Module](https://github.com/Microsoft/MRDesignLabs_Unity_LunarModule) is an open-source sample app from Microsoft's Mixed Reality Design Labs. Learn how to extend HoloLens' base gestures with two-handed tracking and Xbox controller input, create objects that are reactive to surface mapping and plane finding, and implement simple menu systems. All of the project's components are available for use in your own mixed reality app experiences.
 
 ## Demo video 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IcIP]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=f7787715-17ce-4cfb-b2d9-a8f651033aad]
 
 Recorded with HoloLens 2 using Mixed Reality Capture
 

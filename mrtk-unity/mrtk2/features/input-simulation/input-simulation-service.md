@@ -34,7 +34,7 @@ Input simulation is enabled by default in the profiles that ship with MRTK. You 
 * To keep simulated hands in the view, press **T** or **Y** key
 * To rotate simulated hands, press and hold **Ctrl key** and move mouse
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4OYrm]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=f42fa62b-0dcb-45de-9693-93ba309bb96f]
 
 ## In editor input simulation cheat sheet
 

@@ -18,7 +18,7 @@ In HoloLens 2 button design, based on many design iterations, prototypings, and 
 
 ## Visual affordances
 
->[!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWJHgW]
+>[!VIDEO https://learn-video.azurefd.net/vod/player?id=142ca4c0-8289-4608-b64f-98ec82bcaabf]
 
 
 :::row:::

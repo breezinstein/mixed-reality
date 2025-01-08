@@ -14,7 +14,7 @@ keywords: hand, menu, button, quick access, layout, mixed reality headset, windo
 
 The hand menu is one of the most unique UX patterns in HoloLens 2. It allows you to quickly bring up hand-attached UI. Since it's accessible anytime and can be shown and hidden easily, it's great for quick actions.
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4AJAg]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=10d4a7cf-5244-477a-a3f7-34adfbcb439c]
 
 You'll find our recommended best practices for working with hand menus in the list below. You can also find an example scene demonstrating the hand menu in [MRTK](/windows/mixed-reality/mrtk-unity/features/ux-building-blocks/hand-menu).
 
@@ -55,15 +55,15 @@ When the menu is world-locked, make sure to provide a way to move the menu, and 
 
 **Large menu that shows a usability issue**
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4AOPx]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=3d2729b4-5b60-4162-b9d8-8cb9a41c6f01]
 
 **World-locked menu on hand drop**
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4AGZi]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=302b385f-2d95-40e3-a8ea-72d231ea267a]
 
 **Manual grab & pull to world-lock the menu**
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4AJAf]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=f174630c-9c99-422a-85a9-2fb92aae84fa]
 
 ## How to prevent false activation
 
@@ -77,7 +77,7 @@ By requiring a flat open hand, you can prevent false activation that might occur
 
 By requiring the user to gaze at their hand (either with eye gaze or head gaze), it prevents false activations because of the user having to direct their attention to the hand as a secondary activation step (with a tunable distance threshold used to allow for user comfort).  
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Asn4]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=43e8b7c3-19a9-420c-846f-6cc70dba5282]
 
 ---
 

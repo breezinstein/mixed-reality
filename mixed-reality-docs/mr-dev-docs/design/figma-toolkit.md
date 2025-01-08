@@ -10,7 +10,7 @@ keywords: Figma, Sketch, Adobe XD, design, designer, design file, UX design, Hol
 
 # MRTK Figma Toolkit
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWGqke]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=077587f8-8a8c-4802-81d1-4b800393808f]
 
 MRTK Figma Toolkit provides 2D versions of the HoloLens 2 style UI controls that you can find in the MRTK for Unity or MRTK for Unreal. You can use this in the design process for creating UI layouts and storyboards.
 

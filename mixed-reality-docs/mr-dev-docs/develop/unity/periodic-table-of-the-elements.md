@@ -21,7 +21,7 @@ keywords: Windows Mixed Reality, design, sample app, controls, MRTK, Mixed Reali
 
 
 ## Demo video 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IkCF]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=c71033c1-00eb-4c03-9e5e-390821cb5278]
 
 Recorded with HoloLens 2 using Mixed Reality Capture
 
