@@ -44,7 +44,7 @@ Running the script [`Mixed Reality => World Locking Tools => Configure scene`](U
 4. Make sure the "Use Defaults" checkbox is unchecked.
 5. Change the Anchor Subsystem type to `XRSDK`.
 
-If your project and scene are setup to use `AR Foundation`, then select the `AR Foundation` Anchor Subsystem instead. The Azure Spatial Anchors samples show a proper configuration for using `AR Foundation` (currently an ASA requirement).
+If your project and scene are setup to use `AR Foundation`, then select the `AR Foundation` Anchor Subsystem instead.
 
 ![The anchor management section of the context settings](~/Images/Screens/Context/WLTContextAnchor.JPG)
 
