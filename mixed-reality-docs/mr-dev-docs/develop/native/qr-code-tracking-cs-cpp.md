@@ -399,4 +399,3 @@ namespace Microsoft.MixedReality.QR
 * [QR code tracking overview](../advanced-concepts/qr-code-tracking-overview.md)
 * [QR code tracking in Unity](../unity/qr-code-tracking-unity.md)
 * [Coordinate systems](../../design/coordinate-systems.md)
-* <a href="/azure/spatial-anchors/overview" target="_blank">Azure Spatial Anchors</a>
