@@ -60,6 +60,6 @@ If you now build and deploy the Unity project to your HoloLens, and then, back i
 
 ## Congratulations
 
-You have successfully configured your project to synchronize object movements so users can see the objects move when other users move them. This will ensure that the users see each other in their actual physical locations. It will also ensure that objects appear in the same physical position and rotation for all users. If you want to learn how to physically align the now-synchronized movements, see our ["Create a new HoloLens Unity app using Azure Spatial Anchors"](/azure/spatial-anchors/tutorials/tutorial-new-unity-hololens-app) tutorial.
+You have successfully configured your project to synchronize object movements so users can see the objects move when other users move them. This will ensure that the users see each other in their actual physical locations. It will also ensure that objects appear in the same physical position and rotation for all users.
 
 In this multi-user capabilities tutorial series you learned how to set up a Photon account, create a PUN app, integrate PUN into the Unity project, and configure user avatars and shared objects. This tutorial concludes the series.
