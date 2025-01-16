@@ -1,4 +1,4 @@
-# Azure Remote Rendering
+## Azure Remote Rendering
 
 Azure Remote Rendering (ARR) is a service that lets you to render highly complex 3D models in real time. ARR is currently in public preview. It can be added to your Unity or Native C++ projects targeting HoloLens 2 or Windows desktop PC.
 
