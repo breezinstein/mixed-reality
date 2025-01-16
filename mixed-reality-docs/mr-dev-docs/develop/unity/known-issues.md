@@ -1,8 +1,8 @@
 ---
 title: Known issues in Unity versions and packages
 description: Stay up to date on the known issues in Unity versions and packages.
-author: vtieto
-ms.author: vinnietieto
+author: AMollis
+ms.author: amollis
 ms.date: 01/13/2023
 ms.topic: article
 
